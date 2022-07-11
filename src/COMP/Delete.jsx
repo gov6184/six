@@ -6,6 +6,7 @@ function Delete() {
         console.log(bool)
     },[bool])
   return (
+    
     <button onClick={(e)=>{
         setboll(!bool)
         
